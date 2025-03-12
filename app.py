@@ -1,2 +1,3 @@
 print ("hello git")
-bienvenue 
+bienvenu
+print("Date et heure :", datetime.datetime.now())
